@@ -1,0 +1,1920 @@
+fileFormatVersion: 2
+guid: aba989fd78e07a5448147a0303127234
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 813916920038565888
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_0
+  - first:
+      213: 8008788905804525619
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_1
+  - first:
+      213: -197777297583021859
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_2
+  - first:
+      213: 8911097239022803742
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_3
+  - first:
+      213: -9187269281732207304
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_4
+  - first:
+      213: 8870262593879506219
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_5
+  - first:
+      213: -1255266659150173517
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_6
+  - first:
+      213: -8829835240381951483
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_7
+  - first:
+      213: -4366763016637721624
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_8
+  - first:
+      213: -8814119540936295715
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_9
+  - first:
+      213: 1685600649376152482
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_10
+  - first:
+      213: -7577831131524369306
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_11
+  - first:
+      213: 6512998508659918278
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_12
+  - first:
+      213: 2982862160337191818
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_13
+  - first:
+      213: -5681606919921845088
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_14
+  - first:
+      213: 5101628870048160856
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_15
+  - first:
+      213: 8474305262596784088
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_16
+  - first:
+      213: -1735560291184458866
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_17
+  - first:
+      213: 4188872344604638793
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_18
+  - first:
+      213: -8616664371530531536
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_19
+  - first:
+      213: 8682347250280458424
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_20
+  - first:
+      213: -3500346236785185838
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_21
+  - first:
+      213: -980196068022409609
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_22
+  - first:
+      213: 1641366254034928778
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_23
+  - first:
+      213: 4722289622380298
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_24
+  - first:
+      213: -7504362873427384080
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_25
+  - first:
+      213: 448366000674038918
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_26
+  - first:
+      213: -2296034725802510167
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_27
+  - first:
+      213: -6694897500502740221
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_28
+  - first:
+      213: 3738477157733699611
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_29
+  - first:
+      213: 5601752918752666508
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_30
+  - first:
+      213: -3787611686018188155
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_31
+  - first:
+      213: 2898447847150911093
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_32
+  - first:
+      213: 8551376134600726947
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_33
+  - first:
+      213: -1587333466303910254
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_34
+  - first:
+      213: -4494174749316293123
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_35
+  - first:
+      213: -509494936987774806
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_36
+  - first:
+      213: -7806563611128023748
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_37
+  - first:
+      213: 7146697573590455651
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_38
+  - first:
+      213: -1106647159855303123
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_39
+  - first:
+      213: 7139166725976907152
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_40
+  - first:
+      213: -7838329802524343319
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_41
+  - first:
+      213: 7009302009470146495
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_42
+  - first:
+      213: 4346780026723206720
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_43
+  - first:
+      213: -3957354991640786152
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_44
+  - first:
+      213: 2143619799015144107
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_45
+  - first:
+      213: -8946208479099546329
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_46
+  - first:
+      213: -6861454147075269674
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_47
+  - first:
+      213: 6560307280857654729
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_48
+  - first:
+      213: 4731284858468078600
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_49
+  - first:
+      213: -1388357940122900351
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_50
+  - first:
+      213: -7822819019219123524
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_51
+  - first:
+      213: -4260849650125024584
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_52
+  - first:
+      213: 7231743414351314290
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_53
+  - first:
+      213: 897997489422624537
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_54
+  - first:
+      213: 294725349623493013
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_55
+  - first:
+      213: 6804808619135433693
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_56
+  - first:
+      213: 4191274665022378366
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_57
+  - first:
+      213: 8719885529173962677
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_58
+  - first:
+      213: -4696702097335236538
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_59
+  - first:
+      213: 2151251578961138483
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_60
+  - first:
+      213: -3872229610859782087
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_61
+  - first:
+      213: -7244816841847724478
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_62
+  - first:
+      213: -8245098252968536682
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_63
+  - first:
+      213: 1799157148260544694
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_64
+  - first:
+      213: -6128051698089835497
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_65
+  - first:
+      213: -9167933774953714528
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_66
+  - first:
+      213: -3085180174020360176
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_67
+  - first:
+      213: -3472610603246904063
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_68
+  - first:
+      213: -6117305063630829488
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_69
+  - first:
+      213: 1160428710889282680
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_70
+  - first:
+      213: -4707986659654802650
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_71
+  - first:
+      213: -8681363391966932275
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_72
+  - first:
+      213: -7474412780474641373
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_73
+  - first:
+      213: -5906765205440342655
+    second: Master System - Spider-Man Return of the Sinister Six - Spider-Man_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008249f502d9b4b00800000000000000
+      internalID: 813916920038565888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 323
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307193d31fe42f60800000000000000
+      internalID: 8008788905804525619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06de0889a514df0800000000000000
+      internalID: -197777297583021859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 323
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1be2d9b39aab70800000000000000
+      internalID: 8911097239022803742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 323
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5e76b343408080800000000000000
+      internalID: -9187269281732207304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7f9c15d0891b70800000000000000
+      internalID: 8870262593879506219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba66facf95649ee0800000000000000
+      internalID: -1255266659150173517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502decf91af167580800000000000000
+      internalID: -8829835240381951483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 323
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3def62c242663c0800000000000000
+      internalID: -4366763016637721624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab9aa0af4fda580800000000000000
+      internalID: -8814119540936295715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 323
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbb332cd4746710800000000000000
+      internalID: 1685600649376152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 323
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f7952cb226d690800000000000000
+      internalID: -7577831131524369306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 323
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c253e2a1d26a50800000000000000
+      internalID: 6512998508659918278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a834ad8b451456920800000000000000
+      internalID: 2982862160337191818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 323
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac38a8db90e621b0800000000000000
+      internalID: -5681606919921845088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c191f7d60acc640800000000000000
+      internalID: 5101628870048160856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 323
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dffd4fccb7ca9570800000000000000
+      internalID: 8474305262596784088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834dad4c1d0ae7e0800000000000000
+      internalID: -1735560291184458866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 290
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94efd9d243dd12a30800000000000000
+      internalID: 4188872344604638793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d782a38657b6880800000000000000
+      internalID: -8616664371530531536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86e85b2d4ed7870800000000000000
+      internalID: 8682347250280458424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 290
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2b8da4a54c6fc0800000000000000
+      internalID: -3500346236785185838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762a439ed4a562f0800000000000000
+      internalID: -980196068022409609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c01669ed47c610800000000000000
+      internalID: 1641366254034928778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 296
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fe77bb5e6c01000800000000000000
+      internalID: 4722289622380298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82bb7f9b52bd790800000000000000
+      internalID: -7504362873427384080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 296
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e987808ae83600800000000000000
+      internalID: 448366000674038918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 296
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87490f498d220e0800000000000000
+      internalID: -2296034725802510167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 296
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30332e2c132f613a0800000000000000
+      internalID: -6694897500502740221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 296
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1011abea2db1e330800000000000000
+      internalID: 3738477157733699611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 290
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a2c9a99c6dbd40800000000000000
+      internalID: 5601752918752666508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 290
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c74cb3d33bf6bc0800000000000000
+      internalID: -3787611686018188155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 290
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57efc69d5fa593820800000000000000
+      internalID: 2898447847150911093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 227
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a911ab89479ca670800000000000000
+      internalID: 8551376134600726947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 227
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eadd85f98a8f9e0800000000000000
+      internalID: -1587333466303910254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 227
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdd87c60eb71a1c0800000000000000
+      internalID: -4494174749316293123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0dbf1ed09ede8f0800000000000000
+      internalID: -509494936987774806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 227
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353932b1c389a390800000000000000
+      internalID: -7806563611128023748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 227
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365510f049b2e2360800000000000000
+      internalID: 7146697573590455651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 225
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263129754664a0f0800000000000000
+      internalID: -1106647159855303123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5426ff4a631360800000000000000
+      internalID: 7139166725976907152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 152
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3cd28e298a83390800000000000000
+      internalID: -7838329802524343319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 149
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb756ed6a0b064160800000000000000
+      internalID: 7009302009470146495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 150
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468991776dd25c30800000000000000
+      internalID: 4346780026723206720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_44
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 80
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bc1212a96a419c0800000000000000
+      internalID: -3957354991640786152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabacd89daafbd10800000000000000
+      internalID: 2143619799015144107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251fac89cea8d380800000000000000
+      internalID: -8946208479099546329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 22
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db92f88ec737c0a0800000000000000
+      internalID: -6861454147075269674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ede4c6b4ea0b50800000000000000
+      internalID: 6560307280857654729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 94
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049c28e286e8a140800000000000000
+      internalID: 4731284858468078600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 72
+        width: 22
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a1ed2fcf8bbce0800000000000000
+      internalID: -1388357940122900351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 71
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb246419c83cf6390800000000000000
+      internalID: -7822819019219123524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 94
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b253f271db6ed4c0800000000000000
+      internalID: -4260849650125024584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 72
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3e27e1505c5460800000000000000
+      internalID: 7231743414351314290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176a3675f3567c00800000000000000
+      internalID: 897997489422624537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 73
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917c9ad423171400800000000000000
+      internalID: 294725349623493013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 74
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb751cb2698f6e50800000000000000
+      internalID: 6804808619135433693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d0ccf9166a2a30800000000000000
+      internalID: 4191274665022378366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfab7850b1430970800000000000000
+      internalID: 8719885529173962677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_59
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484080a356f1deb0800000000000000
+      internalID: -4696702097335236538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 33
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331a7ac9e7cadd10800000000000000
+      internalID: 2151251578961138483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 34
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93024f35fa3134ac0800000000000000
+      internalID: -3872229610859782087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 37
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24626ee877d357b90800000000000000
+      internalID: -7244816841847724478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695dd95c2d6839d80800000000000000
+      internalID: -8245098252968536682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0bc2dd4e3e7f810800000000000000
+      internalID: 1799157148260544694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 35
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714402ac279c4faa0800000000000000
+      internalID: -6128051698089835497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_66
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 35
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace3933ec4f4c080800000000000000
+      internalID: -9167933774953714528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018407b4afc3f25d0800000000000000
+      internalID: -3085180174020360176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d96361e0fcecfc0800000000000000
+      internalID: -3472610603246904063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058069b9477fa1ba0800000000000000
+      internalID: -6117305063630829488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c58bba3cbaa1010800000000000000
+      internalID: 1160428710889282680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236ff7b31fd9aeb0800000000000000
+      internalID: -4707986659654802650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc21bb7adf9958780800000000000000
+      internalID: -8681363391966932275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245b236d2d854890800000000000000
+      internalID: -7474412780474641373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Spider-Man Return of the Sinister Six - Spider-Man_74
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185571e4754f60ea0800000000000000
+      internalID: -5906765205440342655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

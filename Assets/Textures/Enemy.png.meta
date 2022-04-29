@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: aaf36cccc8f53724bb9901f3ba3f8fa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6452862213452573056
+    second: Master System - The Incredible Hulk - The Rhino_0
+  - first:
+      213: -7725326468037818063
+    second: Master System - The Incredible Hulk - The Rhino_1
+  - first:
+      213: -6448960016957204427
+    second: Master System - The Incredible Hulk - The Rhino_2
+  - first:
+      213: 4294762908687689751
+    second: Master System - The Incredible Hulk - The Rhino_3
+  - first:
+      213: -6936111784107230345
+    second: Master System - The Incredible Hulk - The Rhino_4
+  - first:
+      213: -5748800254799061647
+    second: Master System - The Incredible Hulk - The Rhino_5
+  - first:
+      213: 5630007535505228749
+    second: Master System - The Incredible Hulk - The Rhino_6
+  - first:
+      213: -8783792581729114227
+    second: Master System - The Incredible Hulk - The Rhino_7
+  - first:
+      213: 9037462476373009063
+    second: Master System - The Incredible Hulk - The Rhino_8
+  - first:
+      213: -8909650803477417275
+    second: Master System - The Incredible Hulk - The Rhino_9
+  - first:
+      213: -426108224103411938
+    second: Master System - The Incredible Hulk - The Rhino_10
+  - first:
+      213: -993217870375600767
+    second: Master System - The Incredible Hulk - The Rhino_11
+  - first:
+      213: 6570530826543824582
+    second: Master System - The Incredible Hulk - The Rhino_12
+  - first:
+      213: -5162737679745171984
+    second: Master System - The Incredible Hulk - The Rhino_13
+  - first:
+      213: 5594905269488378213
+    second: Master System - The Incredible Hulk - The Rhino_14
+  - first:
+      213: 8668495537501826488
+    second: Master System - The Incredible Hulk - The Rhino_15
+  - first:
+      213: -3189200520763628464
+    second: Master System - The Incredible Hulk - The Rhino_16
+  - first:
+      213: 8516478900643532140
+    second: Master System - The Incredible Hulk - The Rhino_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0865e9e6104d276a0800000000000000
+      internalID: -6452862213452573056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 94
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139cea202802ac490800000000000000
+      internalID: -7725326468037818063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 94
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538919a5801b086a0800000000000000
+      internalID: -6448960016957204427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 94
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186ade5c101a9b30800000000000000
+      internalID: 4294762908687689751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 93
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b33e9d41bfdbf90800000000000000
+      internalID: -6936111784107230345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 94
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd60070a82830b0800000000000000
+      internalID: -5748800254799061647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cf84460ec12e40800000000000000
+      internalID: 5630007535505228749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 54
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8723597f23b91680800000000000000
+      internalID: -8783792581729114227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 53
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a22f5d348b6d70800000000000000
+      internalID: 9037462476373009063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 55
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c274f1bccf8a5480800000000000000
+      internalID: -8909650803477417275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 55
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f817ae3d8261af0800000000000000
+      internalID: -426108224103411938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d31b3fb916732f0800000000000000
+      internalID: -993217870375600767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 54
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cef5ed79f63f2b50800000000000000
+      internalID: 6570530826543824582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 54
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb3420f654a58b0800000000000000
+      internalID: -5162737679745171984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e0d313b815ad40800000000000000
+      internalID: 5594905269488378213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdead183ceac4870800000000000000
+      internalID: 8668495537501826488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a462060fadb3d0800000000000000
+      internalID: -3189200520763628464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - The Incredible Hulk - The Rhino_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d87f9107c903670800000000000000
+      internalID: 8516478900643532140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43b1ad3332d347f4f8c163b2d285bcae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
