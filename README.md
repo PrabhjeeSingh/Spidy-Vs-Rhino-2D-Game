@@ -1,14 +1,11 @@
 # Spidy-Vs-Rhino-2D-Game
 
 
-
+### Screenshots from the game
 
 
 ![backRestart](https://user-images.githubusercontent.com/67653335/165872197-e9e6a14f-d8a9-475e-9328-1bcd3d6f941a.jpg)
 
-
-
-#Image
 
 
 
@@ -20,6 +17,10 @@
 # Here is the video Demonstration of the Game! 
 
 
-https://github.com/PrabhjeeSingh/Spidy-Vs-Rhino-2D-Game/assets/67653335/ddd844db-3dd3-47e4-ba14-57705351f593
+
+
+https://github.com/PrabhjeeSingh/Spidy-Vs-Rhino-2D-Game/assets/67653335/d216b2a8-880f-40f6-9a5c-602aa2f70f55
+
+
 
 Don't forget to turn on the volume... Enjoy!
